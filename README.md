@@ -1,5 +1,5 @@
-# vodafoneAssignment
-Vodafone Assignment
+# PhoneOrderApp
+Phone Order App
 --Activating top-up orders
 POST method ;
 http://localhost:8080/order/create
